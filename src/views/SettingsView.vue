@@ -191,6 +191,7 @@ export default {
               <option>ko</option>
               <option>jp</option>
               <option>tw</option>
+              <option>tr</option>
             </select>
           </div>
         </div>
